@@ -1,0 +1,11 @@
+{
+  "nome": "João",
+  "email": "joao@hotfirma.com",
+  "telefone": ["1233339999", "0477778585"],
+  "endereco": {
+    "rua": "R. joao joaquim",
+    "numero": 1010, 
+    "apartamento": false,
+    "complemento": null
+  }
+}
