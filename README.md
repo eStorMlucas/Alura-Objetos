@@ -12,3 +12,4 @@ use objects and elaborate on different objectives to create different exercises 
 - Js Objects
 - Objects manipulation
 - Objects manipulation with arrays 
+- Introduction to JSON 
